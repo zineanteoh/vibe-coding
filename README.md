@@ -15,10 +15,10 @@ Every week, [@kohrachel](https://github.com/kohrachel) and I give ourselves **1 
 
 ## 📚 Projects So Far
 
-- 🧬 [Life Simulator](#life-simulator) (✅ March 29, 2025)
-- 🦑 [Squid Game](#squid-game) (✅ April 5, 2025)
-- ⏳ [Time Travel](#time-travel) (✅ April 12, 2025)
-- 🎉 [Card Maker](#card-maker) (✅ April 19, 2025)
+- 🧬 [Life Simulator](https://github.com/zineanteoh/life-simulator/) (✅ March 29, 2025)
+- 🦑 [Squid Game](https://github.com/zineanteoh/squid-game) (✅ April 5, 2025)
+- ⏳ [Time Travel](https://github.com/zineanteoh/time-travel) (✅ April 12, 2025)
+- 🎉 [Card Maker](https://github.com/zineanteoh/card-maker) (✅ April 19, 2025)
 - ...more to come! 
 
 Total: 4
