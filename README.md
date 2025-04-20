@@ -11,6 +11,8 @@ Every week, [@kohrachel](https://github.com/kohrachel) and I give ourselves **1 
 
 <p align="center">
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1153553b-9b87-4235-ae15-b0acd20865fa" />
+<br/>
+<span>source: <a href="https://x.com/karpathy/status/1886192184808149383">@karpathy</a></span>
 </p>
 
 ## 📚 Projects So Far
