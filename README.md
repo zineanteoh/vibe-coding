@@ -5,9 +5,13 @@
 
 # Vibe Coding
 
-Weekly hour-ish coding projects 🎨 Built with **AI only** — no human coding allowed (even when we want to).
+Weekly **vibe coding** session!
 
-Every week, [@kohrachel](https://github.com/kohrachel) and I give ourselves **1 hour** to build something weird, fun, or just plain chaotic using only AI tools. The goal? **Creativity over polish**, and **learning through limits**.
+Every week, [@kohrachel](https://github.com/kohrachel) and I give ourselves **1 hour** to [vibe-code](https://en.wikipedia.org/wiki/Vibe_coding) anything! 
+
+<p align="center">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1153553b-9b87-4235-ae15-b0acd20865fa" />
+</p>
 
 ## 📚 Projects So Far
 
